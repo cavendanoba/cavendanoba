@@ -1,4 +1,3 @@
-# About-Me
 # 💫 About Me:
 🔭 Actualmente trabajo en la Corporación Educativa Minuto de Dios<br>👯 Me gustaría colaborar en proyectos de desarrollo web.<br>🤝 Soy estudiante de 10mo semestre en Ingeniería de Sistemas.<br>🌱 Actualmente me encuentro estudiando Angular y Astro.js<br>⚡ Utilizaba la POO sin saber que era POO.
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente trabajo en la Corporación Educativa Minuto de Dios<br>👯 Me gustaría colaborar en proyectos de desarrollo web.<br>🤝 Soy estudiante de 10mo semestre en Ingeniería de Sistemas.<br>🌱 Actualmente me encuentro estudiando Angular y Astro.js<br>⚡ Utilizaba la POO sin saber que era POO.
+🔭 Me gustaría colaborar en proyectos de desarrollo web.<br>🤝 Soy Ingeniero de Sistemas de la Universidad Minuto de Dios.<br>🌱 Actualmente me encuentro estudiando para mejorar en el framework Angular y para crear páginas tipo landing [Estáticas] mediante Astro.js<br>⚡ Utilizaba la POO sin saber que era POO.
 
 
 # 💻 Tech Stack:

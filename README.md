@@ -1,6 +1,6 @@
-# Hola, soy Cristian 👋
+# Hola, soy Cristhian AkA Skay 👋
 
-**Ingeniero de Aplicaciones & DBA** · 30 años · Colombia 🇨🇴
+**Ingeniero de Aplicaciones & DBA sql** · 30 años · Colombia 🇨🇴
 
 Construyo y opero infraestructura propia end-to-end: desde el servidor físico hasta el despliegue en producción. Actualmente desarrollando el ecosistema **SkayLabs** — infraestructura personal self-hosted con Docker, túneles seguros y aplicaciones full-stack conectadas a bases de datos propias.
 
@@ -17,7 +17,7 @@ Construyo y opero infraestructura propia end-to-end: desde el servidor físico h
 
 **Infraestructura:** Docker · CasaOS · Cloudflare Tunnel · Cloudflare Pages · Cloudflare Hyperdrive · Nginx Proxy Manager · Tailscale
 
-**Bases de datos:** PostgreSQL · Administración, modelado de esquemas, roles y permisos, SSL/TLS
+**Bases de datos:** PostgreSQL · Firebird · Administración, modelado de esquemas, roles y permisos, SSL/TLS
 
 **Backend:** Node.js · Cloudflare Pages Functions · APIs REST
 
